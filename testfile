@@ -1,0 +1,6 @@
+pop 25 ;
+house 3.2 , 1 ;         // median and scatter of houshold sizes
+infected 12 ;
+employed 0.5 ;        // probability of employment
+workplace 10.5, 12 ;  // median and scatter of workplace size (syntax error?)
+end 10.0 ;
